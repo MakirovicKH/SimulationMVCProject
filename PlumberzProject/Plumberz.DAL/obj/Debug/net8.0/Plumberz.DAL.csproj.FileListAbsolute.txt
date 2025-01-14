@@ -1,0 +1,14 @@
+C:\Users\Classtime\source\repos\PlumberzProject\Plumberz.DAL\bin\Debug\net8.0\Plumberz.DAL.deps.json
+C:\Users\Classtime\source\repos\PlumberzProject\Plumberz.DAL\bin\Debug\net8.0\Plumberz.DAL.runtimeconfig.json
+C:\Users\Classtime\source\repos\PlumberzProject\Plumberz.DAL\bin\Debug\net8.0\Plumberz.DAL.dll
+C:\Users\Classtime\source\repos\PlumberzProject\Plumberz.DAL\bin\Debug\net8.0\Plumberz.DAL.pdb
+C:\Users\Classtime\source\repos\PlumberzProject\Plumberz.DAL\obj\Debug\net8.0\Plumberz.DAL.csproj.AssemblyReference.cache
+C:\Users\Classtime\source\repos\PlumberzProject\Plumberz.DAL\obj\Debug\net8.0\Plumberz.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\source\repos\PlumberzProject\Plumberz.DAL\obj\Debug\net8.0\Plumberz.DAL.AssemblyInfoInputs.cache
+C:\Users\Classtime\source\repos\PlumberzProject\Plumberz.DAL\obj\Debug\net8.0\Plumberz.DAL.AssemblyInfo.cs
+C:\Users\Classtime\source\repos\PlumberzProject\Plumberz.DAL\obj\Debug\net8.0\Plumberz.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\source\repos\PlumberzProject\Plumberz.DAL\obj\Debug\net8.0\Plumberz.DAL.dll
+C:\Users\Classtime\source\repos\PlumberzProject\Plumberz.DAL\obj\Debug\net8.0\refint\Plumberz.DAL.dll
+C:\Users\Classtime\source\repos\PlumberzProject\Plumberz.DAL\obj\Debug\net8.0\Plumberz.DAL.pdb
+C:\Users\Classtime\source\repos\PlumberzProject\Plumberz.DAL\obj\Debug\net8.0\Plumberz.DAL.genruntimeconfig.cache
+C:\Users\Classtime\source\repos\PlumberzProject\Plumberz.DAL\obj\Debug\net8.0\ref\Plumberz.DAL.dll

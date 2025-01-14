@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E728AB-76D2-4FAB-91AF-D07F5AD5DC39}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.bl\\services\\implementations\\expertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E728AB-76D2-4FAB-91AF-D07F5AD5DC39}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\services\\implementations\\expertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.dal\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|solutionrelative:plumberz.dal\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E728AB-76D2-4FAB-91AF-D07F5AD5DC39}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.bl\\services\\interfaces\\iexpertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E728AB-76D2-4FAB-91AF-D07F5AD5DC39}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\services\\interfaces\\iexpertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|solutionrelative:plumberz.dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.dal\\implementations\\expertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|solutionrelative:plumberz.dal\\implementations\\expertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.dal\\interfaces\\iexpertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|solutionrelative:plumberz.dal\\interfaces\\iexpertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|solutionrelative:plumberz.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E728AB-76D2-4FAB-91AF-D07F5AD5DC39}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.bl\\dtos\\addexpertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E728AB-76D2-4FAB-91AF-D07F5AD5DC39}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\dtos\\addexpertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E728AB-76D2-4FAB-91AF-D07F5AD5DC39}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.bl\\dtos\\updateexpertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E728AB-76D2-4FAB-91AF-D07F5AD5DC39}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\dtos\\updateexpertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E728AB-76D2-4FAB-91AF-D07F5AD5DC39}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.bl\\dtos\\getexpertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E728AB-76D2-4FAB-91AF-D07F5AD5DC39}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\dtos\\getexpertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.mvc\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|solutionrelative:plumberz.mvc\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|solutionrelative:plumberz.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|solutionrelative:plumberz.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.dal\\models\\expert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|solutionrelative:plumberz.dal\\models\\expert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|solutionrelative:plumberz.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|solutionrelative:plumberz.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|solutionrelative:plumberz.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|solutionrelative:plumberz.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|solutionrelative:plumberz.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.dal\\models\\base\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|solutionrelative:plumberz.dal\\models\\base\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.dal\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|solutionrelative:plumberz.dal\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C4B2EB-7770-46EC-B825-0D6B7AF91585}|Plumberz.DAL\\Plumberz.DAL.csproj|solutionrelative:plumberz.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|solutionrelative:plumberz.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|c:\\users\\classtime\\source\\repos\\plumberzproject\\plumberz.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4312CDE2-52D0-41E4-9808-39CF980903A6}|Plumberz.MVC\\Plumberz.MVC.csproj|solutionrelative:plumberz.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpertRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Implementations\\ExpertRepository.cs",
+              "RelativeDocumentMoniker": "Plumberz.DAL\\Implementations\\ExpertRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Implementations\\ExpertRepository.cs",
+              "RelativeToolTip": "Plumberz.DAL\\Implementations\\ExpertRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:31:34.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IExpertRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Interfaces\\IExpertRepository.cs",
+              "RelativeDocumentMoniker": "Plumberz.DAL\\Interfaces\\IExpertRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Interfaces\\IExpertRepository.cs",
+              "RelativeToolTip": "Plumberz.DAL\\Interfaces\\IExpertRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:30:32.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddExpertDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.BL\\DTOs\\AddExpertDTO.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\DTOs\\AddExpertDTO.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.BL\\DTOs\\AddExpertDTO.cs",
+              "RelativeToolTip": "Plumberz.BL\\DTOs\\AddExpertDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:26:28.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Plumberz.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\Program.cs",
+              "RelativeToolTip": "Plumberz.MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:35:35.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "Plumberz.DAL\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Implementations\\Repository.cs",
+              "RelativeToolTip": "Plumberz.DAL\\Implementations\\Repository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:20:24.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpertService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.BL\\Services\\Implementations\\ExpertService.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\Services\\Implementations\\ExpertService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.BL\\Services\\Implementations\\ExpertService.cs",
+              "RelativeToolTip": "Plumberz.BL\\Services\\Implementations\\ExpertService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:30:45.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Plumberz.DAL\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Plumberz.DAL\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:17:04.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IExpertService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.BL\\Services\\Interfaces\\IExpertService.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\Services\\Interfaces\\IExpertService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.BL\\Services\\Interfaces\\IExpertService.cs",
+              "RelativeToolTip": "Plumberz.BL\\Services\\Interfaces\\IExpertService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:31:57.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateExpertDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.BL\\DTOs\\UpdateExpertDTO.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\DTOs\\UpdateExpertDTO.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.BL\\DTOs\\UpdateExpertDTO.cs",
+              "RelativeToolTip": "Plumberz.BL\\DTOs\\UpdateExpertDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:27:07.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetExpertDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.BL\\DTOs\\GetExpertDTO.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\DTOs\\GetExpertDTO.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.BL\\DTOs\\GetExpertDTO.cs",
+              "RelativeToolTip": "Plumberz.BL\\DTOs\\GetExpertDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:26:50.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "Plumberz.MVC\\DatabaseSeeder.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\DatabaseSeeder.cs",
+              "RelativeToolTip": "Plumberz.MVC\\DatabaseSeeder.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:02:35.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Plumberz.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\appsettings.json",
+              "RelativeToolTip": "Plumberz.MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T10:58:49.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Plumberz.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Plumberz.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:33:34.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Expert.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Models\\Expert.cs",
+              "RelativeDocumentMoniker": "Plumberz.DAL\\Models\\Expert.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Models\\Expert.cs",
+              "RelativeToolTip": "Plumberz.DAL\\Models\\Expert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:09:03.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Plumberz.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Plumberz.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-14T13:16:22.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Plumberz.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Plumberz.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:31:27.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Plumberz.DAL\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Models\\Department.cs",
+              "RelativeToolTip": "Plumberz.DAL\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:15:47.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Plumberz.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Plumberz.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T11:58:19.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Plumberz.DAL\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Models\\AppUser.cs",
+              "RelativeToolTip": "Plumberz.DAL\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:48:01.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Plumberz.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Plumberz.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T10:32:19.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Plumberz.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Plumberz.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAwFIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T10:31:45.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Plumberz.DAL\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Plumberz.DAL\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:40:55.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Models\\Base\\BaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "Plumberz.DAL\\Models\\Base\\BaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.DAL\\Models\\Base\\BaseAuditableEntity.cs",
+              "RelativeToolTip": "Plumberz.DAL\\Models\\Base\\BaseAuditableEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:41:13.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Plumberz.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\PlumberzProject\\Plumberz.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Plumberz.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T10:32:40.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
