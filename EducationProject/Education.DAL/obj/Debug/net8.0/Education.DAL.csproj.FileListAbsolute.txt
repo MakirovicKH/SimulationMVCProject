@@ -1,0 +1,14 @@
+C:\Users\Classtime\source\repos\EducationProject\Education.DAL\bin\Debug\net8.0\Education.DAL.deps.json
+C:\Users\Classtime\source\repos\EducationProject\Education.DAL\bin\Debug\net8.0\Education.DAL.runtimeconfig.json
+C:\Users\Classtime\source\repos\EducationProject\Education.DAL\bin\Debug\net8.0\Education.DAL.dll
+C:\Users\Classtime\source\repos\EducationProject\Education.DAL\bin\Debug\net8.0\Education.DAL.pdb
+C:\Users\Classtime\source\repos\EducationProject\Education.DAL\obj\Debug\net8.0\Education.DAL.csproj.AssemblyReference.cache
+C:\Users\Classtime\source\repos\EducationProject\Education.DAL\obj\Debug\net8.0\Education.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\source\repos\EducationProject\Education.DAL\obj\Debug\net8.0\Education.DAL.AssemblyInfoInputs.cache
+C:\Users\Classtime\source\repos\EducationProject\Education.DAL\obj\Debug\net8.0\Education.DAL.AssemblyInfo.cs
+C:\Users\Classtime\source\repos\EducationProject\Education.DAL\obj\Debug\net8.0\Education.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\source\repos\EducationProject\Education.DAL\obj\Debug\net8.0\Education.DAL.dll
+C:\Users\Classtime\source\repos\EducationProject\Education.DAL\obj\Debug\net8.0\refint\Education.DAL.dll
+C:\Users\Classtime\source\repos\EducationProject\Education.DAL\obj\Debug\net8.0\Education.DAL.pdb
+C:\Users\Classtime\source\repos\EducationProject\Education.DAL\obj\Debug\net8.0\Education.DAL.genruntimeconfig.cache
+C:\Users\Classtime\source\repos\EducationProject\Education.DAL\obj\Debug\net8.0\ref\Education.DAL.dll

@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.dal\\repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|solutionrelative:education.dal\\repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2820965A-9732-4CCA-8F08-4EE3F211013A}|Education.BL\\Education.BL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.bl\\services\\interfaces\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2820965A-9732-4CCA-8F08-4EE3F211013A}|Education.BL\\Education.BL.csproj|solutionrelative:education.bl\\services\\interfaces\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2820965A-9732-4CCA-8F08-4EE3F211013A}|Education.BL\\Education.BL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.bl\\services\\implementations\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2820965A-9732-4CCA-8F08-4EE3F211013A}|Education.BL\\Education.BL.csproj|solutionrelative:education.bl\\services\\implementations\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2820965A-9732-4CCA-8F08-4EE3F211013A}|Education.BL\\Education.BL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.bl\\dtos\\newsdto\\addnewsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2820965A-9732-4CCA-8F08-4EE3F211013A}|Education.BL\\Education.BL.csproj|solutionrelative:education.bl\\dtos\\newsdto\\addnewsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.dal\\repository\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|solutionrelative:education.dal\\repository\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|solutionrelative:education.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|solutionrelative:education.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|solutionrelative:education.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.dal\\repository\\implementations\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|solutionrelative:education.dal\\repository\\implementations\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.dal\\repository\\interfaces\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|solutionrelative:education.dal\\repository\\interfaces\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2820965A-9732-4CCA-8F08-4EE3F211013A}|Education.BL\\Education.BL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.bl\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2820965A-9732-4CCA-8F08-4EE3F211013A}|Education.BL\\Education.BL.csproj|solutionrelative:education.bl\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2820965A-9732-4CCA-8F08-4EE3F211013A}|Education.BL\\Education.BL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.bl\\profiles\\newsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2820965A-9732-4CCA-8F08-4EE3F211013A}|Education.BL\\Education.BL.csproj|solutionrelative:education.bl\\profiles\\newsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2820965A-9732-4CCA-8F08-4EE3F211013A}|Education.BL\\Education.BL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.bl\\dtos\\newsdto\\getnewsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2820965A-9732-4CCA-8F08-4EE3F211013A}|Education.BL\\Education.BL.csproj|solutionrelative:education.bl\\dtos\\newsdto\\getnewsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2820965A-9732-4CCA-8F08-4EE3F211013A}|Education.BL\\Education.BL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.bl\\dtos\\newsdto\\updatenewsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2820965A-9732-4CCA-8F08-4EE3F211013A}|Education.BL\\Education.BL.csproj|solutionrelative:education.bl\\dtos\\newsdto\\updatenewsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2820965A-9732-4CCA-8F08-4EE3F211013A}|Education.BL\\Education.BL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2820965A-9732-4CCA-8F08-4EE3F211013A}|Education.BL\\Education.BL.csproj|solutionrelative:education.bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.dal\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|solutionrelative:education.dal\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.dal\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|solutionrelative:education.dal\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.dal\\models\\base\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|solutionrelative:education.dal\\models\\base\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|solutionrelative:education.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|solutionrelative:education.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|solutionrelative:education.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|solutionrelative:education.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|solutionrelative:education.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|solutionrelative:education.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|solutionrelative:education.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70463995-6066-4D8C-8D7F-D9AFA145B787}|Education.DAL\\Education.DAL.csproj|solutionrelative:education.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|solutionrelative:education.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|solutionrelative:education.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|solutionrelative:education.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|c:\\users\\classtime\\source\\repos\\educationproject\\education.mvc\\education.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB4AFC80-3A35-482A-BEEA-F3DC6EB33B57}|Education.MVC\\Education.MVC.csproj|solutionrelative:education.mvc\\education.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Education.DAL\\Repository\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Education.DAL\\Repository\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:32:23.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.BL\\Services\\Implementations\\NewsService.cs",
+              "RelativeDocumentMoniker": "Education.BL\\Services\\Implementations\\NewsService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.BL\\Services\\Implementations\\NewsService.cs",
+              "RelativeToolTip": "Education.BL\\Services\\Implementations\\NewsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:05:12.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INewsService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.BL\\Services\\Interfaces\\INewsService.cs",
+              "RelativeDocumentMoniker": "Education.BL\\Services\\Interfaces\\INewsService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.BL\\Services\\Interfaces\\INewsService.cs",
+              "RelativeToolTip": "Education.BL\\Services\\Interfaces\\INewsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:20:45.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Repository\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Education.DAL\\Repository\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Repository\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "Education.DAL\\Repository\\Implementations\\GenericRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:32:45.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Education.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Education.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:19:35.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Education.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Education.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAJUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:20:06.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Education.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Program.cs",
+              "RelativeToolTip": "Education.MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:51:28.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddNewsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.BL\\DTOs\\NewsDTO\\AddNewsDTO.cs",
+              "RelativeDocumentMoniker": "Education.BL\\DTOs\\NewsDTO\\AddNewsDTO.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.BL\\DTOs\\NewsDTO\\AddNewsDTO.cs",
+              "RelativeToolTip": "Education.BL\\DTOs\\NewsDTO\\AddNewsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:54:29.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Repository\\Implementations\\NewsRepository.cs",
+              "RelativeDocumentMoniker": "Education.DAL\\Repository\\Implementations\\NewsRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Repository\\Implementations\\NewsRepository.cs",
+              "RelativeToolTip": "Education.DAL\\Repository\\Implementations\\NewsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:05:59.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "INewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Repository\\Interfaces\\INewsRepository.cs",
+              "RelativeDocumentMoniker": "Education.DAL\\Repository\\Interfaces\\INewsRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Repository\\Interfaces\\INewsRepository.cs",
+              "RelativeToolTip": "Education.DAL\\Repository\\Interfaces\\INewsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:04:44.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.BL\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Education.BL\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.BL\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "Education.BL\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:04:57.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewsProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.BL\\Profiles\\NewsProfile.cs",
+              "RelativeDocumentMoniker": "Education.BL\\Profiles\\NewsProfile.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.BL\\Profiles\\NewsProfile.cs",
+              "RelativeToolTip": "Education.BL\\Profiles\\NewsProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:06:11.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetNewsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.BL\\DTOs\\NewsDTO\\GetNewsDTO.cs",
+              "RelativeDocumentMoniker": "Education.BL\\DTOs\\NewsDTO\\GetNewsDTO.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.BL\\DTOs\\NewsDTO\\GetNewsDTO.cs",
+              "RelativeToolTip": "Education.BL\\DTOs\\NewsDTO\\GetNewsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:54:51.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateNewsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.BL\\DTOs\\NewsDTO\\UpdateNewsDTO.cs",
+              "RelativeDocumentMoniker": "Education.BL\\DTOs\\NewsDTO\\UpdateNewsDTO.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.BL\\DTOs\\NewsDTO\\UpdateNewsDTO.cs",
+              "RelativeToolTip": "Education.BL\\DTOs\\NewsDTO\\UpdateNewsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:55:11.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Education.DAL\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Education.DAL\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:01:28.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.BL\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Education.BL\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.BL\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Education.BL\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:21:32.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Models\\News.cs",
+              "RelativeDocumentMoniker": "Education.DAL\\Models\\News.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Models\\News.cs",
+              "RelativeToolTip": "Education.DAL\\Models\\News.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:32:27.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Models\\Base\\BaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "Education.DAL\\Models\\Base\\BaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Models\\Base\\BaseAuditableEntity.cs",
+              "RelativeToolTip": "Education.DAL\\Models\\Base\\BaseAuditableEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:49:29.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Education.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Education.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:40:56.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Education.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Education.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:21:11.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Education.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\appsettings.json",
+              "RelativeToolTip": "Education.MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T10:42:21.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Education.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Education.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-15T12:18:19.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Education.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Education.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAUwMsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T12:20:39.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Education.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Education.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:58:19.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Education.DAL\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Models\\AppUser.cs",
+              "RelativeToolTip": "Education.DAL\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:15:17.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Education.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Education.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T10:41:52.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Education.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Education.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwCgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T10:41:40.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Education.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Education.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAUwFMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T10:41:05.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Education.DAL\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.DAL\\Models\\Category.cs",
+              "RelativeToolTip": "Education.DAL\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:32:56.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Education.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Education.MVC.csproj",
+              "RelativeDocumentMoniker": "Education.MVC\\Education.MVC.csproj",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\EducationProject\\Education.MVC\\Education.MVC.csproj",
+              "RelativeToolTip": "Education.MVC\\Education.MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T10:25:38.138Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
