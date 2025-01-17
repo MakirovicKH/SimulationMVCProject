@@ -1,0 +1,12 @@
+C:\Users\Classtime\source\repos\ListraceProject\Listrace.DAL\bin\Debug\net8.0\Listrace.DAL.deps.json
+C:\Users\Classtime\source\repos\ListraceProject\Listrace.DAL\bin\Debug\net8.0\Listrace.DAL.dll
+C:\Users\Classtime\source\repos\ListraceProject\Listrace.DAL\bin\Debug\net8.0\Listrace.DAL.pdb
+C:\Users\Classtime\source\repos\ListraceProject\Listrace.DAL\obj\Debug\net8.0\Listrace.DAL.csproj.AssemblyReference.cache
+C:\Users\Classtime\source\repos\ListraceProject\Listrace.DAL\obj\Debug\net8.0\Listrace.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\source\repos\ListraceProject\Listrace.DAL\obj\Debug\net8.0\Listrace.DAL.AssemblyInfoInputs.cache
+C:\Users\Classtime\source\repos\ListraceProject\Listrace.DAL\obj\Debug\net8.0\Listrace.DAL.AssemblyInfo.cs
+C:\Users\Classtime\source\repos\ListraceProject\Listrace.DAL\obj\Debug\net8.0\Listrace.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\source\repos\ListraceProject\Listrace.DAL\obj\Debug\net8.0\Listrace.DAL.dll
+C:\Users\Classtime\source\repos\ListraceProject\Listrace.DAL\obj\Debug\net8.0\refint\Listrace.DAL.dll
+C:\Users\Classtime\source\repos\ListraceProject\Listrace.DAL\obj\Debug\net8.0\Listrace.DAL.pdb
+C:\Users\Classtime\source\repos\ListraceProject\Listrace.DAL\obj\Debug\net8.0\ref\Listrace.DAL.dll

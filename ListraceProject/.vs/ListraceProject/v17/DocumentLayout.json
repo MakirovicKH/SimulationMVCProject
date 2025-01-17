@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90D6792E-9C06-4CC6-8765-9900376078EB}|Listrace.BL\\Listrace.BL.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.bl\\services\\implementations\\placesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D6792E-9C06-4CC6-8765-9900376078EB}|Listrace.BL\\Listrace.BL.csproj|solutionrelative:listrace.bl\\services\\implementations\\placesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D6792E-9C06-4CC6-8765-9900376078EB}|Listrace.BL\\Listrace.BL.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.bl\\dtos\\placesdtos\\updateplacesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D6792E-9C06-4CC6-8765-9900376078EB}|Listrace.BL\\Listrace.BL.csproj|solutionrelative:listrace.bl\\dtos\\placesdtos\\updateplacesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D6792E-9C06-4CC6-8765-9900376078EB}|Listrace.BL\\Listrace.BL.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.bl\\dtos\\placesdtos\\addplacesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D6792E-9C06-4CC6-8765-9900376078EB}|Listrace.BL\\Listrace.BL.csproj|solutionrelative:listrace.bl\\dtos\\placesdtos\\addplacesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D6792E-9C06-4CC6-8765-9900376078EB}|Listrace.BL\\Listrace.BL.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.bl\\services\\interfaces\\iplacesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D6792E-9C06-4CC6-8765-9900376078EB}|Listrace.BL\\Listrace.BL.csproj|solutionrelative:listrace.bl\\services\\interfaces\\iplacesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.dal\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.dal\\repositories\\implementations\\placesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\repositories\\implementations\\placesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.dal\\repositories\\interfaces\\iplacesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\repositories\\interfaces\\iplacesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.dal\\models\\base\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\models\\base\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D6792E-9C06-4CC6-8765-9900376078EB}|Listrace.BL\\Listrace.BL.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.bl\\dtos\\placesdtos\\getplacesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D6792E-9C06-4CC6-8765-9900376078EB}|Listrace.BL\\Listrace.BL.csproj|solutionrelative:listrace.bl\\dtos\\placesdtos\\getplacesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.dal\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D6792E-9C06-4CC6-8765-9900376078EB}|Listrace.BL\\Listrace.BL.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.bl\\profiles\\placesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D6792E-9C06-4CC6-8765-9900376078EB}|Listrace.BL\\Listrace.BL.csproj|solutionrelative:listrace.bl\\profiles\\placesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.dal\\models\\places.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\models\\places.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.mvc\\listrace.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\listrace.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.dal\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656CC73-3BDD-4199-9D44-D61700CBD0FE}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\source\\repos\\listraceproject\\listrace.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4268F5DE-DB33-4CBF-B7A3-A64546C0A16D}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlacesService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.BL\\Services\\Implementations\\PlacesService.cs",
+              "RelativeDocumentMoniker": "Listrace.BL\\Services\\Implementations\\PlacesService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.BL\\Services\\Implementations\\PlacesService.cs",
+              "RelativeToolTip": "Listrace.BL\\Services\\Implementations\\PlacesService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwD0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:49:59.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "Listrace.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:43:31.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPlacesService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.BL\\Services\\Interfaces\\IPlacesService.cs",
+              "RelativeDocumentMoniker": "Listrace.BL\\Services\\Interfaces\\IPlacesService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.BL\\Services\\Interfaces\\IPlacesService.cs",
+              "RelativeToolTip": "Listrace.BL\\Services\\Interfaces\\IPlacesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:36:10.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlacesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Repositories\\Implementations\\PlacesRepository.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Repositories\\Implementations\\PlacesRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Repositories\\Implementations\\PlacesRepository.cs",
+              "RelativeToolTip": "Listrace.DAL\\Repositories\\Implementations\\PlacesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:20:09.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Listrace.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:44:05.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddPlacesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.BL\\DTOs\\PlacesDTOs\\AddPlacesDTO.cs",
+              "RelativeDocumentMoniker": "Listrace.BL\\DTOs\\PlacesDTOs\\AddPlacesDTO.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.BL\\DTOs\\PlacesDTOs\\AddPlacesDTO.cs",
+              "RelativeToolTip": "Listrace.BL\\DTOs\\PlacesDTOs\\AddPlacesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:15:58.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdatePlacesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.BL\\DTOs\\PlacesDTOs\\UpdatePlacesDTO.cs",
+              "RelativeDocumentMoniker": "Listrace.BL\\DTOs\\PlacesDTOs\\UpdatePlacesDTO.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.BL\\DTOs\\PlacesDTOs\\UpdatePlacesDTO.cs",
+              "RelativeToolTip": "Listrace.BL\\DTOs\\PlacesDTOs\\UpdatePlacesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:16:17.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPlacesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Repositories\\Interfaces\\IPlacesRepository.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Repositories\\Interfaces\\IPlacesRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Repositories\\Interfaces\\IPlacesRepository.cs",
+              "RelativeToolTip": "Listrace.DAL\\Repositories\\Interfaces\\IPlacesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:20:44.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Models\\Base\\BaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Models\\Base\\BaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Models\\Base\\BaseAuditableEntity.cs",
+              "RelativeToolTip": "Listrace.DAL\\Models\\Base\\BaseAuditableEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:20:14.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetPlacesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.BL\\DTOs\\PlacesDTOs\\GetPlacesDTO.cs",
+              "RelativeDocumentMoniker": "Listrace.BL\\DTOs\\PlacesDTOs\\GetPlacesDTO.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.BL\\DTOs\\PlacesDTOs\\GetPlacesDTO.cs",
+              "RelativeToolTip": "Listrace.BL\\DTOs\\PlacesDTOs\\GetPlacesDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:15:25.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "Listrace.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:54:50.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlacesProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.BL\\Profiles\\PlacesProfile.cs",
+              "RelativeDocumentMoniker": "Listrace.BL\\Profiles\\PlacesProfile.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.BL\\Profiles\\PlacesProfile.cs",
+              "RelativeToolTip": "Listrace.BL\\Profiles\\PlacesProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:24:24.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Listrace.MVC",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Listrace.MVC.csproj",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Listrace.MVC.csproj",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Listrace.MVC.csproj",
+              "RelativeToolTip": "Listrace.MVC\\Listrace.MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-17T13:02:13.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Listrace.DAL\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:19:52.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Places.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Models\\Places.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Models\\Places.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Models\\Places.cs",
+              "RelativeToolTip": "Listrace.DAL\\Models\\Places.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:23:33.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "Listrace.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:26:26.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Listrace.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:35:25.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.DAL\\Models\\Category.cs",
+              "RelativeToolTip": "Listrace.DAL\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:25:27.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T10:59:09.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAALkAAAAAAAAAAAAYwM4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T10:58:51.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAYwHoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T10:58:23.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Listrace.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:58:15.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Listrace.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Listrace.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-17T10:57:29.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Program.cs",
+              "RelativeToolTip": "Listrace.MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:51:24.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T10:42:43.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T10:42:30.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAALcAAAAAAAAAAAAUwMkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T10:41:18.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ListraceProject\\Listrace.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Listrace.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:41:05.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
