@@ -1,0 +1,15 @@
+C:\Users\II Novbe\source\repos\MICO.Project\MICO.BL\bin\Debug\net8.0\MICO.BL.deps.json
+C:\Users\II Novbe\source\repos\MICO.Project\MICO.BL\bin\Debug\net8.0\MICO.BL.dll
+C:\Users\II Novbe\source\repos\MICO.Project\MICO.BL\bin\Debug\net8.0\MICO.BL.pdb
+C:\Users\II Novbe\source\repos\MICO.Project\MICO.BL\bin\Debug\net8.0\MICO.DAL.dll
+C:\Users\II Novbe\source\repos\MICO.Project\MICO.BL\bin\Debug\net8.0\MICO.DAL.pdb
+C:\Users\II Novbe\source\repos\MICO.Project\MICO.BL\obj\Debug\net8.0\MICO.BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\MICO.Project\MICO.BL\obj\Debug\net8.0\MICO.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\MICO.Project\MICO.BL\obj\Debug\net8.0\MICO.BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\MICO.Project\MICO.BL\obj\Debug\net8.0\MICO.BL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\MICO.Project\MICO.BL\obj\Debug\net8.0\MICO.BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\MICO.Project\MICO.BL\obj\Debug\net8.0\MICO.BL.csproj.Up2Date
+C:\Users\II Novbe\source\repos\MICO.Project\MICO.BL\obj\Debug\net8.0\MICO.BL.dll
+C:\Users\II Novbe\source\repos\MICO.Project\MICO.BL\obj\Debug\net8.0\refint\MICO.BL.dll
+C:\Users\II Novbe\source\repos\MICO.Project\MICO.BL\obj\Debug\net8.0\MICO.BL.pdb
+C:\Users\II Novbe\source\repos\MICO.Project\MICO.BL\obj\Debug\net8.0\ref\MICO.BL.dll
